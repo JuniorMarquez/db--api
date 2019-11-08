@@ -9,33 +9,29 @@
   "properties": {
     "type": {
       "type": "string"
-     
     },
-   "userd": {
+    "userd": {
       "type": "string"
-    
     },
-  "phone": {
+    "phone": {
       "type": "string",
       "required": true
     },
-  "companyName": {
+    "companyName": {
       "type": "string"
-    }, 
-
-  "address": {
+    },
+    "address": {
       "type": "string"
-      
-    }, 
-  "status": {
+    },
+    "status": {
       "type": "string"
-    }, 
-  "name": {
+    },
+    "name": {
       "type": "string"
-    }   
+    }
   },
   "validations": [],
   "relations": {},
-   "acls": [],
+  "acls": [],
   "methods": {}
 }
